@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdamMJennissen
+- 👋 Hi, I’m Adam Jennissen
 - 🎓 I'm studying Software Engineering at Iowa State University, expected graduation of May 2026
 - 👀 I’m interested in Artificial Intelligence, Game design, and Robotics
 - 🌱 I’m currently learning C++, C, Java, Verilog
