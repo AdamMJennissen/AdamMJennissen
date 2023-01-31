@@ -4,3 +4,4 @@
 - I'm experienced in C++, and C
 - I’m currently learning Java, and Verilog
 - How to reach me adamjenn@iastate.edu, https://www.linkedin.com/in/adam-jennissen
+- This GitHub accounnt is used for my code backups as well as any projects that I work on
