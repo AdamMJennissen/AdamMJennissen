@@ -1,7 +1,6 @@
 - Hi, I’m Adam Jennissen
 - I'm studying Software Engineering at Iowa State University, expected graduation of December 2025
 - I’m interested in Artificial Intelligence, Game design, and Robotics
-- I'm experienced in C++, and C
-- I’m currently learning Java, and Verilog
+- I'm experienced in Java, C, Verilog, html, css, and C++
 - How to reach me adamjenn@iastate.edu, https://www.linkedin.com/in/adam-jennissen
 - This GitHub accounnt is used for my code backups as well as any projects that I work on
